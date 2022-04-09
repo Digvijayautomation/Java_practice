@@ -1,9 +1,9 @@
 package Java_practice;
 
-public class Data_Types {
+public class Data_Types_02 {
 
     public static void main(String[] args) {
-
+        System.out.println("************************************************");
      byte age=30;
      short num1=20000;
 	 int num2=1000000000;
