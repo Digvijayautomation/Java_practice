@@ -2,7 +2,7 @@ package Java_practice;
 
 import java.util.Scanner;
 
-public class Taking_inputs {
+public class Taking_Inputs_01 {
 
     public static void main (String args[])
     {
