@@ -85,16 +85,13 @@ public class Operators_05 {
         System.out.println("Increment and decrement Operators");
 
         int x= 50;
-        System.out.println(x);
+        System.out.println("Value of x Is " +x);
 
         int y=x++;
-        System.out.println(x);
+        System.out.println("Value of y=x++ Is " +x);
 
          int z=++x;
-        System.out.println(z);
-
-
-
+        System.out.println("Value of z=++x; Is " +x);
 
 
         System.out.println("************************************************");
