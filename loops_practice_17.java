@@ -59,7 +59,7 @@ public class loops_practice_17 {
 
         for (int i=10;i>0;i--)
         {
-            System.out.printf("%d * %d=%d \n",x,i,x*i);  // printf method is used
+            System.out.printf("%d * %d=%d \n",x,i,x*i);  // printf method is used for proper formatting
         }
 
 
