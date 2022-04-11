@@ -2,7 +2,10 @@ package Java_practice;
 
 import java.util.Scanner;
 
+
+
 public class Taking_Inputs_01 {
+
 
     public static void main (String args[])
     {
@@ -15,6 +18,7 @@ public class Taking_Inputs_01 {
         int num1=sc.nextInt();
         System.out.println("Enter Number 2 In Integer");
         int num2=sc.nextInt();
+
         int int_sum=num1+num2;
         System.out.println("The SUM of Number 1 and Number 2 Is " + int_sum);
         System.out.println("************************************************");
@@ -40,6 +44,14 @@ public class Taking_Inputs_01 {
         System.out.println("************************************************");
 
 
+
+        // Checking number is Float or not
+        System.out.println("To Check Number Is Float Or Not");
+        System.out.println("Enter Number");
+        boolean b2=sc.hasNextFloat();
+        System.out.println(b2);
+        System.out.println("************************************************");
+
         // Checking number is Integer or not
         System.out.println("To Check Number Is Integer Or Not");
         System.out.println("Enter Number");
@@ -48,12 +60,7 @@ public class Taking_Inputs_01 {
         System.out.println("************************************************");
 
 
-        // Checking number is Float or not
-        System.out.println("To Check Number Is Float Or Not");
-        System.out.println("Enter Number");
-        boolean b2=sc.hasNextFloat();
-        System.out.println(b2);
-        System.out.println("************************************************");
+
 
 
 

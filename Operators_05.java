@@ -87,11 +87,16 @@ public class Operators_05 {
         int x= 50;
         System.out.println("Value of x Is " +x);
 
-        int y=x++;
-        System.out.println("Value of y=x++ Is " +x);
+        int y=x++; // It stores the value of x into y and then increment it
+        System.out.println("Value of y=x++ Is " +y+ " And x is now " +x);
 
          int z=++x;
-        System.out.println("Value of z=++x; Is " +x);
+        System.out.println("Value of z=++x; Is " +z+ " And x is now " +x);
+
+        int w=--x;
+
+        System.out.println("Value of w=--x; Is " +w+ " And x is now " +x);
+
 
 
         System.out.println("************************************************");
