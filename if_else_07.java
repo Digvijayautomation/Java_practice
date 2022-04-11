@@ -19,8 +19,9 @@ public class if_else_07 {
         {
             System.out.println("NO, You can not Drive"); // Else block is always optional
         }
+        System.out.println("************|Ends Here|**********");
 
-        System.out.println("***********************************************");
+
         System.out.println("Using Boolean");
 
         boolean bool=(age>18);
@@ -34,12 +35,9 @@ public class if_else_07 {
         {
             System.out.println("NO, You can not Drive"); // Else block is always optional
         }
-        System.out.println("*****************************************************");
+        System.out.println("************|Ends Here|**********");
 
 
-
-
-        System.out.println("*****************************************************");
 
         System.out.println("Logical AND(&&)");
 
@@ -54,14 +52,11 @@ public class if_else_07 {
         {
             System.out.println("If both false or one of them is false then the result will be\t" +b);
         }
+        System.out.println("************|Ends Here|**********");
 
 
-
-        System.out.println("*****************************************************");
 
         System.out.println("Logical OR(||)");
-
-
 
         if (a || b)
         {
@@ -72,9 +67,9 @@ public class if_else_07 {
         {
             System.out.println("Only if both are falase then the result will be \t" +b);
         }
+        System.out.println("************|Ends Here|**********");
 
 
-        System.out.println("*****************************************************");
 
         System.out.println("Logical NOT (!)");
 

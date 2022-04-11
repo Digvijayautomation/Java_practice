@@ -7,7 +7,7 @@ public class switch_conditions_10 {
     public static void main(String[] args) {
 
 
-        System.out.println("***********************************************");
+
         System.out.println("Switch Statements");
 
         Scanner sc=new Scanner(System.in);

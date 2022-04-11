@@ -7,7 +7,7 @@ public class Result_Calculator_03 {
     public static void main (String args[])
     {
 
-        System.out.println("************************************************");
+
         float total_marks=500;
 
         System.out.println("Result Calculator For Five Subject");

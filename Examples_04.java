@@ -4,7 +4,7 @@ public class Examples_04 {
 
     public static void main(String[] args) {
 
-        System.out.println("************************************************");
+
         //Addition of 3 Numbers
 
         int num1=45;
@@ -13,7 +13,7 @@ public class Examples_04 {
 
         int sum= num1+num2+num3;
         System.out.println("Addition For Is "+sum);
-        System.out.println("************************************************");
+        System.out.println("************|Ends Here|**********");
 
 
 
@@ -29,7 +29,7 @@ public class Examples_04 {
         float CGPA=Total_marks/30;
         System.out.println("CGPA Is "+CGPA);
 
-        System.out.println("************************************************");
+        System.out.println("************|Ends Here|**********");
 
 
 

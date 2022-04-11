@@ -11,7 +11,7 @@ public class for_loop_14 {
         {
             System.out.println(i);
         }
-        System.out.println("****************************************************");
+        System.out.println("************|Ends Here|**********");
 
 
         // Decrementing  For Loop
@@ -20,9 +20,8 @@ public class for_loop_14 {
         {
             System.out.println(i);
         }
+        System.out.println("************|Ends Here|**********");
 
-
-        System.out.println("****************************************************");
 
         System.out.println("To print 1st 10 Even Number Numbers");
 
@@ -31,7 +30,8 @@ public class for_loop_14 {
             System.out.println(2*i);  // For Even Number you have to use formula- 2n
         }
 
-        System.out.println("****************************************************");
+        System.out.println("************|Ends Here|**********");
+
 
         System.out.println("To print 1st 10 ODD Number Numbers");
 

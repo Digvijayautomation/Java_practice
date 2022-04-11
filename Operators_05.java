@@ -56,7 +56,7 @@ public class Operators_05 {
         System.out.println("a<b is " +c3);
         System.out.println("a>b is " +c4);
 
-        System.out.println("************************************************");
+
 
         System.out.println("Logical Operators");
         boolean l1 = a==b && a!=b;   // if one the true and one is false it will consider as false
@@ -68,7 +68,7 @@ public class Operators_05 {
 
 
 
-        System.out.println("************************************************");
+        System.out.println("************|Ends Here|**********");
 
 
         System.out.println("Precedence of Associativity between Operators");
@@ -79,7 +79,7 @@ public class Operators_05 {
         System.out.println("40 * 8 / 47 is " +x1);
         System.out.println("40 / 20 * 10 is " +x2);
 
-        System.out.println("************************************************");
+        System.out.println("************|Ends Here|**********");
 
 
         System.out.println("Increment and decrement Operators");
@@ -99,7 +99,7 @@ public class Operators_05 {
 
 
 
-        System.out.println("************************************************");
+        System.out.println("************|Ends Here|**********");
     }
 
 }
