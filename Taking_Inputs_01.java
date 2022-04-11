@@ -2,10 +2,7 @@ package Java_practice;
 
 import java.util.Scanner;
 
-
-
 public class Taking_Inputs_01 {
-
 
     public static void main (String args[])
     {
@@ -58,13 +55,6 @@ public class Taking_Inputs_01 {
         boolean b1=sc.hasNextInt();
         System.out.println(b1);
         System.out.println("************************************************");
-
-
-
-
-
-
-
 
     }
 }
