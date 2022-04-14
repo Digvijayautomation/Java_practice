@@ -8,6 +8,7 @@ public class method_overloading_24 {
     }
 
     static void method(int a)
+
     {
         System.out.println("Hello its method_2 with 1 Arguments\t" +a);
     }

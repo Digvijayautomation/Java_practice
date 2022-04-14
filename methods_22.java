@@ -2,13 +2,13 @@ package Java_practice;
 
 public class methods_22 {
 
-    static  int Logic_Multiplication(int x, int y)  // method to calculate the multiplication of 2 Programs.Interview
+    static  int Logic_Multiplication(int x, int y)  // method to calculate the multiplication of 2 Interview_Extract_Number_Add_Them
     {
         int z=x*y;
         return z;
     }
 
-    static  int Logic_Dividation(int q, int r)  // method to calculate the Dividation of 2 Programs.Interview
+    static  int Logic_Dividation(int q, int r)  // method to calculate the Dividation of 2 Interview_Extract_Number_Add_Them
     {
         int p=q*r;
         return p;
