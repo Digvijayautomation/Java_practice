@@ -21,9 +21,11 @@ public class Recurssion_26 {
         }
     }
 
+
+
     public static void main(String[] args)
     {
-        System.out.println("Factorial of number 5 is" +factorial(5));
+        System.out.println("Factorial of number 5 is"+factorial(5));
         
     }
 }

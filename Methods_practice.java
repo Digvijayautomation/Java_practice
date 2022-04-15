@@ -19,19 +19,31 @@ public class Methods_practice {
             {
                 for(int j=0;j<i+1;j++)
                 {
-                    System.out.println("*");
+                    System.out.print("*");
                 }
-               System.out.println();
+                System.out.println();
             }
+    }
+
+    // Method for calculating sum of n number
+
+    static int sum(int n)
+    {
+        if(n==1)
+        {
+            return 1;
+        }
+        return n+ sum(n-1);
+
     }
 
 
     public static void main(String[] args) {
 
-        //multiplication(7);
+         //multiplication(7);
+        //pattern(5);
 
-
-        pattern(5);
+        System.out.println(sum(3));
 
     }
 }
