@@ -46,15 +46,11 @@ public class Taking_Inputs_01 {
         System.out.println("To Check Number Is Float Or Not");
         System.out.println("Enter Number");
         boolean b2=sc.hasNextFloat();
-        System.out.println(b2);
-        System.out.println("************|Ends Here|**********");
-
-        // Checking number is Integer or not
-        System.out.println("To Check Number Is Integer Or Not");
-        System.out.println("Enter Number");
-        boolean b1=sc.hasNextInt();
-        System.out.println(b1);
-        System.out.println("************|Ends Here|**********");
+         if(b2)
+         {
+             System.out.println("Number Is Float");
+         }
+       
 
     }
 }
