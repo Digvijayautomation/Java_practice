@@ -7,7 +7,7 @@ public class Operators_05 {
 
         System.out.println("************************************************");
 
-        float a=12; // Reasons for using float is "we never know when decimal value will occur"
+        float a=12; // Reasons for using float is "we never know when floating value will occur"
         float b=34;
         System.out.println("a=" +a);
         System.out.println("b=" +b);
@@ -28,7 +28,6 @@ public class Operators_05 {
         System.out.println("percentage of " +a+ " and " +b+ " is " +percentage);
 
         System.out.println("************************************************");
-
 
 
 

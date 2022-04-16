@@ -30,12 +30,12 @@ public class string_06 {
         System.out.println(Endwith);
         System.out.println("************|Ends Here|**********");
 
-        System.out.println("Checking charactor at index 2");
+        System.out.println("Checking character at index 2");
         char char_index=str.charAt(2);
         System.out.println(char_index);
         System.out.println("************|Ends Here|**********");
 
-        System.out.println("Checking index of given charactor y");
+        System.out.println("Checking index of given character y");
         int index=str.indexOf("a");
         System.out.println(index);
         System.out.println("************|Ends Here|**********");

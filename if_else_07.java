@@ -5,22 +5,18 @@ public class if_else_07 {
 
     public static void main(String[] args) {
 
-
         int age=3;
-
 
         System.out.println("If else");
         if(age>18)
         {
             System.out.println("Yes, You can Drive");
-
         }
         else
         {
             System.out.println("NO, You can not Drive"); // Else block is always optional
         }
         System.out.println("************|Ends Here|**********");
-
 
         System.out.println("Using Boolean");
 
@@ -29,15 +25,12 @@ public class if_else_07 {
         if(bool)  // if bool is true it will run 1st block
         {
             System.out.println("Yes, You can Drive");
-
         }
         else
         {
             System.out.println("NO, You can not Drive"); // Else block is always optional
         }
         System.out.println("************|Ends Here|**********");
-
-
 
         System.out.println("Logical AND(&&)");
 
@@ -54,8 +47,6 @@ public class if_else_07 {
         }
         System.out.println("************|Ends Here|**********");
 
-
-
         System.out.println("Logical OR(||)");
 
         if (a || b)
@@ -65,11 +56,9 @@ public class if_else_07 {
         }
         else
         {
-            System.out.println("Only if both are falase then the result will be \t" +b);
+            System.out.println("Only if both are false then the result will be \t" +b);
         }
         System.out.println("************|Ends Here|**********");
-
-
 
         System.out.println("Logical NOT (!)");
 

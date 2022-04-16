@@ -9,9 +9,9 @@ public class Data_Types_02 {
 	 int num2=1000000000;
      long long_num=6384368728L;  //For long type we must add "l or L" IN the end of value
      char ch='A';
+     float num3= 16.71f; //For long type we must add "f or F" IN the end of value
+     double num4=1077666.20;
      String name="VIJAYAWADA";
-     float num3= 1.1f; //For long type we must add "f or F" IN the end of value
-     double num4=10.20;
      Boolean b=true;
 
 

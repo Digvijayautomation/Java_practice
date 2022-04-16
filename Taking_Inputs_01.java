@@ -41,7 +41,6 @@ public class Taking_Inputs_01 {
         System.out.println("************|Ends Here|**********");
 
 
-
         // Checking number is Float or not
         System.out.println("To Check Number Is Float Or Not");
         System.out.println("Enter Number");
@@ -50,7 +49,7 @@ public class Taking_Inputs_01 {
          {
              System.out.println("Number Is Float");
          }
-       
+
 
     }
 }
