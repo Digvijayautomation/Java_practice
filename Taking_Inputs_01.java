@@ -31,12 +31,12 @@ public class Taking_Inputs_01 {
         System.out.println("************|Ends Here|**********");
 
 
-        // Adding to int with float
+        // Adding  int with float
         System.out.println("Enter Number 1 In Integer");
         int num_in_int=sc.nextInt();
         System.out.println("Enter Number 2 In Float");
         float num_in_float=sc.nextFloat();
-        float int_float_sum=float1+float2;
+        float int_float_sum=num_in_int+num_in_float;
         System.out.println("The SUM of Number 1 and Number 2 Is " + int_float_sum);
         System.out.println("************|Ends Here|**********");
 
