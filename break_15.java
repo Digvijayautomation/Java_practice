@@ -9,11 +9,11 @@ public class break_15 {
             System.out.println(i);
             System.out.println("Java Is Great");
 
-            if (i == 2) {
+            if (i == 2)
+            {
                 System.out.println("Java Is Bad"); // it will print 2 statement for x==2 condition and break the execution
                 break;
             }
-
 
 
             }

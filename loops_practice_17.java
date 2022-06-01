@@ -81,6 +81,5 @@ public class loops_practice_17 {
         System.out.println("************|Ends Here|**********");
 
 
-
     }
 }

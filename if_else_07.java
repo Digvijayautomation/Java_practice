@@ -14,7 +14,7 @@ public class if_else_07 {
         }
         else
         {
-            System.out.println("NO, You can not Drive"); // Else block is always optional
+            System.out.println("No, You can not Drive"); // Else block is always optional
         }
         System.out.println("************|Ends Here|**********");
 

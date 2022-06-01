@@ -25,6 +25,5 @@ public class while_loop_12 {
 
 
 
-
     }
 }

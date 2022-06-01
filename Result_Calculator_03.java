@@ -13,16 +13,16 @@ public class Result_Calculator_03 {
         System.out.println("Result Calculator For Five Subject");
          Scanner sc=new Scanner(System.in);
 
-        System.out.println("Enter Marks For Marathi");  //Using float because marks can be in float format
+        System.out.println("Enter Marks For Marathi Out Off 1010");  //Using float because marks can be in float format
         float s1=sc.nextFloat();
 
-        System.out.println("Enter Marks For Hindi");  //Using float because marks can be in float format
+        System.out.println("Enter Marks For Hindi Out Off 1010");  //Using float because marks can be in float format
         float s2=sc.nextFloat();
 
-        System.out.println("Enter Marks For English");  //Using float because marks can be in float format
+        System.out.println("Enter Marks For English Out Off 1010");  //Using float because marks can be in float format
         float s3=sc.nextFloat();
 
-        System.out.println("Enter Marks For Geography");  //Using float because marks can be in float format
+        System.out.println("Enter Marks For Geography Out Off 1010");  //Using float because marks can be in float format
         float s4=sc.nextFloat();
 
         System.out.println("Enter Marks For History");  //Using float because marks can be in float format
