@@ -19,10 +19,6 @@ public class Array_practice_21 {
 
         System.out.println("************|Ends Here|**********");
 
-
-
-
-
         // Practice program 3
 
         System.out.println(" Calculating the average of marks for 10 student");
@@ -37,8 +33,8 @@ public class Array_practice_21 {
         }
         System.out.println("Sum is \t"+sum_of_10);
         System.out.println("Average is \t"+average);
-
         System.out.println("************|Ends Here|**********");
+
 
 
 
@@ -57,7 +53,6 @@ public class Array_practice_21 {
         int [][] Result={ {0,0,0},
                            {0,0,0}
                          };
-
 
         for(int i=0;i<matrix1.length;i++)
         {
@@ -78,16 +73,12 @@ public class Array_practice_21 {
             System.out.println("");
         }
 
-
-
         System.out.println("************|Ends Here|**********");
 
 
+
+
+
     }
-
-
-
-
-
     }
 

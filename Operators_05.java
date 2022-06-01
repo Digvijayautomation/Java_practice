@@ -32,10 +32,10 @@ public class Operators_05 {
 
 
         System.out.println("Assignment Operators");
-        float  a1= a-= b ;
-        float  a2= a += b ;
-        float  a3= a *= b ;
-        float  a4= b /= b ;
+        float  a1= a-= b ;  //its like a=a-b
+        float  a2= a += b ;  //its like a=b
+        float  a3= a *= b ;  //a=a*b
+        float  a4= a /= b ; // a=a/b
 
         System.out.println("a-= b is "+a1);
         System.out.println("a += b is "+a2);

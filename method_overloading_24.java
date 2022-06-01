@@ -21,13 +21,9 @@ public class method_overloading_24 {
 
     public static void main(String[] args) {
 
-
-        method();
-
+       method();
         method(300);
-
         method(34.45f,56.78f);
-
 
     }
 }

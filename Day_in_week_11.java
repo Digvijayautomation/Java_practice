@@ -41,6 +41,8 @@ public class Day_in_week_11 {
                 break;
 
             default:
+                System.out.println("This is not an day in week");
+                break;
 
 
         }

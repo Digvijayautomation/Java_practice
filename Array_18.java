@@ -36,7 +36,6 @@ public class Array_18 {
         marks1[4]=67;
 
         System.out.println("Marks at 3rd position is In Array \t"+marks[3]);
-
         System.out.println("************|Ends Here|**********");
 
 

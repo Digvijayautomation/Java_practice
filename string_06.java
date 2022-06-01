@@ -20,7 +20,7 @@ public class string_06 {
         System.out.println(replace);
         System.out.println("************|Ends Here|**********");
 
-        System.out.println("Checking if string staring with v");
+        System.out.println("Checking if string starting with v");
         boolean Startwith=str.startsWith("V");
         System.out.println(Startwith);
         System.out.println("************|Ends Here|**********");
@@ -50,6 +50,7 @@ public class string_06 {
         System.out.println(equal_without_case);
         System.out.println("************|Ends Here|**********");
 
+        
         String Lowercase= str.toLowerCase();
         System.out.println("String Into Lowercase is " +Lowercase);
         String Uppercase= str.toUpperCase();
@@ -82,17 +83,7 @@ public class string_06 {
         System.out.println(Letter1);
         System.out.println(Letter2);
         System.out.println(Letter3);
-
-
         System.out.println("************|Ends Here|**********");
-
-
-
-
-
-
-
-
 
     }
 }
