@@ -17,6 +17,7 @@ public class Array_18 {
            marks[3]=90;
            marks[4]=67;
 
+
         System.out.println("Marks at 4th position is In Array \t"+marks[4]);
         System.out.println("************|Ends Here|**********");
 
